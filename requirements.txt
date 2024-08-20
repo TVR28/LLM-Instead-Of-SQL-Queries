@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+pandasai
+pandasai[connectors]
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+mysql-connector-python
+pymysql
